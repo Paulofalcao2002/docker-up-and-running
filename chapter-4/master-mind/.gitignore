@@ -1,0 +1,10 @@
+venv*
+*.pyc
+.vscode
+__pycache__
+build
+dist
+open_mastermind.egg-info
+.tox
+INFO.txt
+.DS_Store

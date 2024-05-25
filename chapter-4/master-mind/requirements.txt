@@ -1,0 +1,6 @@
+colorama
+# These are not required - but are used for demonstration purposes
+pandas
+flask
+log-symbols
+py-events
